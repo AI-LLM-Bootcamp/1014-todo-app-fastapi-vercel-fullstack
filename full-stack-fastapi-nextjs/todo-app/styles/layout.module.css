@@ -1,0 +1,10 @@
+.layout {
+    width: 300px;
+    margin: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+}

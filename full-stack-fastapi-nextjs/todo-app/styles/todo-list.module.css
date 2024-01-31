@@ -1,0 +1,36 @@
+.container {
+    width: 300px;
+    border: 1px solid black;
+  }
+  
+  .mainInputContainer {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .mainInput {
+    padding: 5px;
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+    width: 260px;
+    height: 40px;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+    border-top: 1px solid black;
+  }
+  
+  .filterBtn {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .filterActive {
+    text-decoration: underline;
+  }
